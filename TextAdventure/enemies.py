@@ -1,5 +1,4 @@
-"""Defines the enemies in the game"""
-__author__ = 'Phillip Johnson'
+
 
 
 class Enemy:

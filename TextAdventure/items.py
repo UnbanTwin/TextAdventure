@@ -1,5 +1,4 @@
-"""Describes the items in the game."""
-__author__ = 'Phillip Johnson'
+
 
 
 class Item():
